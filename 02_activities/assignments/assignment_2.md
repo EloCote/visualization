@@ -10,23 +10,24 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+      Bad visualization: https://public.tableau.com/app/profile/kevin.wee/viz/BustingtheMythsAboutReadingGraphicNovelsIronViz2026/Dashboard
 
+      This visualization lacks a lot of clarity. It is unclear what is the message the author is trying to convey (perceptual issue). The author is claiming to "bust myths about reading graphic novels" but I do not understand how the data they are presenting supports that goal. For example, the title of the figures is "Written reviews drive reader engagement" and they show percentages of written reviews (in yellow) compared to percentages of graphic novels (in black) for different genres. How does that relate to myths about graphic novels? They could clarify that connection. Also, for each genre, there is a percentage displayed (e.g., 79%) but it is unclear whether that number refers to the percentage or graphic novels or the percentage of written reviews. At least, they report the source of the data (goodreads) which makes the visualization appear more objective (Kennedy et al., 2016).
 
+      Good visualization: https://public.tableau.com/app/profile/jennifer.eneh/viz/PCOSDashboard_17297311153800/pcosdashboard
 
-
-
-
+      I think that this visualization is good overall as it is clear what is the message it is conveying (the prevalence of PCOS diagnostics, its symptoms and how certain lifestyle habits impact those symptoms). The visualization uses simple and familiar charts (e.g., bar charts) which reduces the extraneous cognitive load. I find the charts displaying the impact of exercising and fastfood on the prevalence of symptoms (e.g., acne, hair loss) particularly evocative. However, I wished they had added information on the y axis as it is unclear how big the difference between the two groups is. This makes me wonder whether the data is presented honestly (substantive issue). Relatedly, they do not report the source of the data which makes me doubt of the visualization's objectivity and accuracy (Kennedy et al., 2016).
 
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
+        Bad visualization: https://public.tableau.com/app/profile/kevin.wee/viz/BustingtheMythsAboutReadingGraphicNovelsIronViz2026/Dashboard
 
+        This data visualization could be improved by clarifying the connection between the goal of the visualization (bust myths about reading graphic novels) and the results displayed. One way this could be done is by explaining more clearly what they mean by "reader engagement" (measured by written reviews) and what message that information aims to convey specifically. Or they could remove that information altogether, and focus only on the percentage of graphic novels within each genre. This would make the visualization less confusing.
 
+        Good visualization: https://public.tableau.com/app/profile/jennifer.eneh/viz/PCOSDashboard_17297311153800/pcosdashboard
 
-
-
+        To improve this visualization, I would remove the chart presenting the hormone levels. This chart is hard to understand and increases the germane cognitive load as the general public is not neecessarily familiar with the information presented. There are already a lot of information and visual elements in the visualization (detailed composition) so I think removing one chart would help decrease the cognitive load. I would also report the source of the data to improve the visualization's perceived objectivity (Kennedy et al., 2016).
 
       
       ```
