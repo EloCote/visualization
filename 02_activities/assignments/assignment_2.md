@@ -27,7 +27,7 @@
 
         Good visualization: https://public.tableau.com/app/profile/jennifer.eneh/viz/PCOSDashboard_17297311153800/pcosdashboard
 
-        To improve this visualization, I would remove the chart presenting the hormone levels. This chart is hard to understand and increases the germane cognitive load as the general public is not neecessarily familiar with the information presented. There are already a lot of information and visual elements in the visualization (detailed composition) so I think removing one chart would help decrease the cognitive load. I would also report the source of the data to improve the visualization's perceived objectivity (Kennedy et al., 2016).
+        To improve this visualization, I would remove the chart presenting the hormone levels. This chart is hard to understand and increases the germane cognitive load as the general public is not neecessarily familiar with the information presented. There is already a lot of information and visual elements in the visualization (detailed composition) so I think removing one chart would help decrease the cognitive load. I would also report the source of the data to improve the visualization's perceived objectivity and accuracy (Kennedy et al., 2016).
 
       
       ```
